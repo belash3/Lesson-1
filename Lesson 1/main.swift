@@ -17,3 +17,4 @@ let x1: Double = ((b) * (-1) + (sqrt(discriminant))) / (2*a)
 let x2: Double = ((b) * (-1) - (sqrt(discriminant))) / (2*a)
     print ("Уравнение ", equation, "имеет 2 корня :", x1, ", ", x2)
 
+//hhg
